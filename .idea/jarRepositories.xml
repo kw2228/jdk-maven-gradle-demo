@@ -57,6 +57,11 @@
       <option name="url" value="https://artifactory.otlabs.fr/artifactory/fabric-release-local-remote" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="did-library-release-local" />
       <option name="name" value="did-library-release-local" />
       <option name="url" value="https://artifactory.otlabs.fr/artifactory/did-library-release-local/" />
